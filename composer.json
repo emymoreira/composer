@@ -1,0 +1,10 @@
+{
+    "name": "emily/phpatt",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Emily\\Phpatt\\": "src/"
+        }
+    },
+    "require": {}
+}
